@@ -1,14 +1,14 @@
 
-# Snowflake Data Pipeline CI/CD [![Snowflake Data Pipeline CI/CD](https://github.com/Medy682/Customer_Analytics_Data_Pipeline/actions/workflows/snowflake_pipeline.yml/badge.svg)](https://github.com/Medy682/Customer_Analytics_Data_Pipeline/actions/workflows/snowflake_pipeline.yml)
+# Snowflake Data Pipeline CI/CD [![Snowflake Data Pipeline CI/CD](https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline/actions/workflows/snowflake_pipeline.yml/badge.svg)](https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline/actions/workflows/snowflake_pipeline.yml)
 
 
 Author: Kidima Medy Masuka 
 
 Date: 2026
 
-# 🚀 Customer Analytics Data Pipeline
+# 🚀 Snowflake Sql Customer Analytics Elt Pipeline
 
-The Customer Analytics Data Pipeline is an end-to-end ELT data engineering solution designed to ingest, process, transform, and analyze customer sales data using a modern cloud data stack.
+The Snowflake Sql Customer Analytics Elt Pipeline is an end-to-end ELT data engineering solution designed to ingest, process, transform, and analyze customer sales data using a modern cloud data stack.
 
 In this project, I designed and deployed a complete Snowflake-based ELT pipeline integrated with Azure Data Factory, Azure Key Vault, and GitHub Actions CI/CD automation. The solution was built using enterprise-style cloud data engineering practices with a strong focus on orchestration, security, automation, reliability, and production-ready deployment workflows.
 
@@ -77,8 +77,8 @@ The solution uses Snowflake for data warehousing, Azure Data Factory for orchest
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Medy682/Customer_Analytics_Data_Pipeline.git
-cd Customer_Analytics_Data_Pipeline
+git clone https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline.git
+cd snowflake_sql_customer_analytics_elt_pipeline
 ```
 
 ## 2️⃣ Configure Environment Variables
@@ -296,7 +296,7 @@ These views support reporting and business analysis.
 ## 📂 Repository Structure
 
 ```text
-Customer_Analytics_Data_pipeline
+Snowflake_Sql_Customer_Analytics_Elt_Pipeline
 ├── .github/
 │   └── workflows/
 │       └── snowflake_pipeline.yml
