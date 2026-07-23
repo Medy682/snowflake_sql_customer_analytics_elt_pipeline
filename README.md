@@ -368,7 +368,7 @@ Snowflake_Sql_Customer_Analytics_Elt_Pipeline
 
 # 📸 Project Screenshots
 
-##  ⚒ Orchestration
+## 🛠️  ADF Orchestration 
 
 ###  ✅ adf_pipeline_runs
 
@@ -385,6 +385,25 @@ Snowflake_Sql_Customer_Analytics_Elt_Pipeline
 ###  ✅ Key Vault integration
 
 ![Key Vault integration](adf/screenshots/key_vault_linked_service.png)
+
+
+## ❄️ Snowflake 
+
+###  ✅ Snowflake_fact_table
+
+![Snowflake_fact_table](Snowflake_Screenshots/Snowflake_fact_table.png)
+
+###  ✅ Snowflake_views
+
+![Snowflake_views](Snowflake_Screenshots/Snowflake_views.png)
+
+###  ✅ Snowflake_views1
+
+![Snowflake_views1](Snowflake_Screenshots/Snowflake_views1.png)
+
+###  ✅ Snowflake_views2
+
+![Snowflake_views2](Snowflake_Screenshots/Snowflake_views2.png)
 
 ---
 
