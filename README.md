@@ -1,5 +1,5 @@
 
-# Snowflake Data Pipeline CI/CD [![Snowflake Data Pipeline CI/CD](https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline/actions/workflows/snowflake_pipeline.yml/badge.svg)](https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline/actions/workflows/snowflake_pipeline.yml)
+# 💎 Snowflake Data Pipeline CI/CD [![Snowflake Data Pipeline CI/CD](https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline/actions/workflows/snowflake_pipeline.yml/badge.svg)](https://github.com/Medy682/snowflake_sql_customer_analytics_elt_pipeline/actions/workflows/snowflake_pipeline.yml)
 
 
 Author: Kidima Medy Masuka 
